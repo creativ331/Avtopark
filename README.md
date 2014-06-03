@@ -7,11 +7,11 @@ Avtopark
 Для ефективної роботи організації необхідно пришвидшити і полегшити трудовий процес роботи з комп’ютером, тобто виникає потреба у правильному збереженні, видачі даних у коректній, зрозумілій формі. Цей проект покликаний вирішити сказані вище проблеми та контролювати діяльність організації. 
 Тому даний програмний продукт повинен мати зручний інтерфейс для оформлення замовлення, автоматичного формування дорожніх листів, швидкий доступ до даних про водіїв та автомобілів, контроль витрати палива і штрафами, які отримали водії. Також потрібно передбачити наявність на підприємстві слюсарів, які проводять планові перевірки транспортних засобів та ремонт в разі поломки, а також склад з запчастинами.  
 
-Перелік програмного забезпечення необхідного для роботи з проектом<BR>
+Перелік програмного забезпечення необхідного для роботи з проектом:<BR>
 1) Потрібно мати встановину операційну систему Windows. <BR>
-2) Microsoft Visual Studio 2010 <A HREF="http://www.microsoft.com/ru-ru/softmicrosoft/VisualStudioExpress.aspx">Силка на скачування</A><BR>
-3) Установелений програмний пакет DevExpress 12.1<A HREF="https://www.devexpress.com/Home/try.xml">Силка на скачування</A>. Скачуєш, знаходиш файл DevExpress.Registration.Setup.v12.1.5.E3.msi відкриваєш, устанавлюєш.<BR>.
-4) Для зміни БД потрібно буде встановити Microsoft Access 2007 <A HREF="http://microsoft-word.net/microsoft-office/8-skachat-microsoft-office-2007-besplatno.htmll">Силка на скачування</A><BR>
+2) Microsoft Visual Studio 2010 <A HREF="http://www.microsoft.com/ru-ru/softmicrosoft/VisualStudioExpress.aspx">Силка на скачування.</A> <A HREF="http://msdn.microsoft.com/ru-ru/library/e2h7fzkw.aspx"> Установка Visual Studio 2010</A><BR>
+3) Установелений програмний пакет DevExpress 12.1<A HREF="https://www.devexpress.com/Home/try.xml">Силка на скачування</A>. Скачуєш, знаходиш файл DevExpress.Registration.Setup.v12.1.5.E3.msi відкриваєш, устанавлюєш.<BR>
+4) Для зміни БД потрібно буде встановити Microsoft Access 2007 <A HREF="http://microsoft-word.net/microsoft-office/8-skachat-microsoft-office-2007-besplatno.htmll">Силка на скачування.</A> <A HREF="http://office.microsoft.com/ru-ru/ha010354261.aspx"> Установка Office. </A><BR>
 
 Інструкція користувача
 Головне меню
