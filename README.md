@@ -15,42 +15,42 @@ Avtopark
 
 Інструкція користувача
 Головне меню
-<h1><img alt="" src="/userfiles/images/Public Folder/1(1).jpg" style="height:552px; width:969px" /></h1>
+<h1><img alt="" src="http://ckeditor.com/userfiles/images/Public Folder/1(1).jpg" style="height:552px; width:969px" /></h1>
 
 <p>&nbsp;</p>
 
 Форма для роботи з таблицею водії.
-<h1><img alt="" src="/userfiles/images/Public Folder/2(3).jpg" /></h1>
+<h1><img alt="" src="http://ckeditor.com/userfiles/images/Public Folder/2(3).jpg" /></h1>
 
 <p>&nbsp;</p>
 
 Кнопки для зміни вигляду відображення даних (таблиця/картки).
-<h1><img alt="" src="/userfiles/images/Public Folder/9.jpg" /></h1>
+<h1><img alt="" src="http://ckeditor.com/userfiles/images/Public Folder/9.jpg" /></h1>
 
 <p>&nbsp;</p>
 
 Експорт таблиці
- <h1><img alt="" src="/userfiles/images/Public Folder/4.jpg" style="height:552px; width:969px" /></h1>
+ <h1><img alt="" src="http://ckeditor.com/userfiles/images/Public Folder/4.jpg" style="height:552px; width:969px" /></h1>
 
 <p>&nbsp;</p>
 
 Робота з талицями
-<h1><img alt="" src="/userfiles/images/Public Folder/5.jpg" /></h1>
+<h1><img alt="" src="http://ckeditor.com/userfiles/images/Public Folder/5.jpg" /></h1>
 
 <p>&nbsp;</p> 
 
 Для того щоб відкрити підпорядковані таблиці
-<h1><img alt="" src="/userfiles/images/Public Folder/6.jpg" style="height:552px; width:969px" /></h1>
+<h1><img alt="" src="http://ckeditor.com/userfiles/images/Public Folder/6.jpg" style="height:552px; width:969px" /></h1>
 
 <p>&nbsp;</p>
 
 Для групування потрібно перетянути стовбець в поле групування
-<h1><img alt="" src="/userfiles/images/Public Folder/7.jpg" style="height:552px; width:969px" /></h1>
+<h1><img alt="" src="http://ckeditor.com/userfiles/images/Public Folder/7.jpg" style="height:552px; width:969px" /></h1>
 
 <p>&nbsp;</p>
 
 Сортування, пошук, фільтри знаходяться в контекстному меню
-<h1><img alt="" src="/userfiles/images/Public Folder/8.jpg" style="height:514px; width:816px" /></h1>
+<h1><img alt="" src="http://ckeditor.com/userfiles/images/Public Folder/8.jpg" style="height:514px; width:816px" /></h1>
 
 <p>&nbsp;</p>
 
